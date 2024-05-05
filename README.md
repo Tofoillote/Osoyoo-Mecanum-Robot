@@ -18,6 +18,6 @@ This one APK add a speed control from a sliding cursor.
 
 One direction work while you have the direction button touched. Immediatly stop at realease.
 
-Speed isn't yet evolvving while running, this is in the "to do" list.
+Speed isn't yet evolving while running, this is in the "to do" list.
 
 ENJOY ! ^^
