@@ -11,7 +11,9 @@ My purpose is to make an more intuivite application (and sorry this is yet in fr
 
 Sorry that I'm a total noob at sharing code under github
 
-based from the online available version of .INO faile from OSOYOO, 5D version.
+based from the online available version of .INO file from OSOYOO, 5D version.
+https://osoyoo.com/2019/11/08/omni-direction-mecanum-wheel-robot-car-kit-v1-lesson-5-wifi-control-robot-car/
+
 The robot work as a WIFI hotspot with UDP listening to IP adress 192.168.1.4 port 8888
 
 This explore the moves from strafe left/right, diagonals, forward, backward, turning left/right or in place clockwise/counter clockwise.
