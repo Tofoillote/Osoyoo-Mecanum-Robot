@@ -1,5 +1,7 @@
 # Osoyoo-Mecanum-Robot
 my Arduino coding and android APK code to make this thing work a little better
+This thing is a "gadget toy" you can see here : https://osoyoo.com/category/osoyoo-robot-car-kit/m1-0-mecanum-wheel-metal-chassis-robotic/
+In fact is a very technological one, that you can learn alot of coding and control/command operation with.
 
 This code is shared under Creative Commons License : CC-BY-SA-4.0
 
